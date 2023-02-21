@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react/static/js/main.bfddfeb8.js",
+    "static/media/cat.gif": "/react/static/media/cat.ec1176a99ee6540b2a88.gif",
+    "index.html": "/react/index.html",
+    "main.bfddfeb8.js.map": "/react/static/js/main.bfddfeb8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bfddfeb8.js"
+  ]
+}
