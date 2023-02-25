@@ -1,6 +1,6 @@
-export const num = 0;
 
-function Number() {
+
+function Number({num}) {
    return(
       <span className="main__number">{num}</span>
    )

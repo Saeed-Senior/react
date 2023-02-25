@@ -61,11 +61,8 @@ body{
    border-bottom: 1px solid white;
 }
 .header__logo{
-   max-width: 150px;
-   background-color: white;
-   border-radius: 20px;
-   box-shadow: 0 0 20px white;
-   padding: 5px;
+   font-size: 40px;
+   color: white;
 }
 .header__menu{}
 .menu{}
