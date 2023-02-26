@@ -3,10 +3,10 @@ import img from '../img/refresh.png';
 
 function Buttons({num, setNum}){
    function plus(){
-      setNum(num + 3);
+      setNum(num + 1);
    };
    function minus(){
-      num > 1 ? setNum(num - 2) : setNum(0);
+      num > 0 ? setNum(num - 1) : setNum(0);
    };
    function reStart(){
       setNum(0);
